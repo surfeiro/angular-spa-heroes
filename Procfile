@@ -1,0 +1,1 @@
+“start:heroku”: “node dist/server”.
